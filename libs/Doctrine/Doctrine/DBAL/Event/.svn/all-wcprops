@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Event
+END
+ConnectionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Event/ConnectionEventArgs.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Query
+END
+QueryBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Query/QueryBuilder.php
+END

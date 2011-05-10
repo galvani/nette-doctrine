@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Logging
+END
+DebugStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Logging/DebugStack.php
+END
+EchoSQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Logging/EchoSQLLogger.php
+END
+SQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Logging/SQLLogger.php
+END

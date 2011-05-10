@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver.php
+END
+LockMode.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/LockMode.php
+END
+SQLParserUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/SQLParserUtils.php
+END
+ConnectionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/ConnectionException.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Connection.php
+END
+DBALException.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/DBALException.php
+END
+Events.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Events.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Statement.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Version.php
+END
+DriverManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/DriverManager.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Configuration.php
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/README.markdown
+END

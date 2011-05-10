@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/IBMDB2
+END
+DB2Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/IBMDB2/DB2Statement.php
+END
+DB2Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/IBMDB2/DB2Driver.php
+END
+DB2Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/IBMDB2/DB2Exception.php
+END
+DB2Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/IBMDB2/DB2Connection.php
+END

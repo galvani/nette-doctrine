@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Query/Expression
+END
+CompositeExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Query/Expression/CompositeExpression.php
+END
+ExpressionBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Query/Expression/ExpressionBuilder.php
+END

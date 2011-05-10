@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/Connection.php
+END
+PDOConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/PDOConnection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/Statement.php
+END
+PDOStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Driver/PDOStatement.php
+END

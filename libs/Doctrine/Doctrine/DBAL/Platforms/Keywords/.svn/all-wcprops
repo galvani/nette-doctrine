@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords
+END
+SQLiteKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/SQLiteKeywords.php
+END
+PostgreSQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/PostgreSQLKeywords.php
+END
+MySQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/MySQLKeywords.php
+END
+OracleKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/OracleKeywords.php
+END
+ReservedKeywordsValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/ReservedKeywordsValidator.php
+END
+DB2Keywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/DB2Keywords.php
+END
+KeywordList.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/KeywordList.php
+END
+MsSQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/Keywords/MsSQLKeywords.php
+END

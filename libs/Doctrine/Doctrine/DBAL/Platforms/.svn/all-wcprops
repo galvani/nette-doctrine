@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms
+END
+MySqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/MySqlPlatform.php
+END
+OraclePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/OraclePlatform.php
+END
+DB2Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/DB2Platform.php
+END
+MsSqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/MsSqlPlatform.php
+END
+SqlitePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/SqlitePlatform.php
+END
+AbstractPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/AbstractPlatform.php
+END
+PostgreSqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php
+END

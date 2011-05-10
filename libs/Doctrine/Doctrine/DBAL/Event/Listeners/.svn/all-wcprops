@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Event/Listeners
+END
+MysqlSessionInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Event/Listeners/MysqlSessionInit.php
+END
+OracleSessionInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Event/Listeners/OracleSessionInit.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Portability
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Portability/Connection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/doctrine/dbal.git/!svn/ver/4978/lib/Doctrine/DBAL/Portability/Statement.php
+END
