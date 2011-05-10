@@ -19,10 +19,21 @@ common:
 			run: true
 	
 	database:
-		
+		driver: pdo_mysql
+		user:	root
+		password:
+		host:	localhost
+		dbname:	nettebox
 
 production < common:
 
 development < common:
+	database:
+		driver: pdo_mysql
+		user:	root
+		password:
+		host:	localhost
+		dbname:	nettebox
+
 
 console < common:

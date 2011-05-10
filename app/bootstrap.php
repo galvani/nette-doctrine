@@ -42,23 +42,9 @@ if (!Environment::isProduction()) {
 $config->setMetadataCacheImpl($cache);
 $config->setQueryCacheImpl($cache);
 
-// database configuration parameters (6)
-$conn = array(
-    'driver'	=> 'pdo_mysql',
-    'user'	=> 'root',
-    'password'	=> '',
-    'host'	=> 'localhost',
-    'dbname'	=> 'dobrapojistka',
-    'data_fixtures_path' => dirname(__FILE__) . '/doctrine/data/fixtures',
-    'models_path'        => dirname(__FILE__) . '/models',
-    'migrations_path'    => dirname(__FILE__) . '/doctrine/migrations',
-    'sql_path'           => dirname(__FILE__) . '/doctrine/data/sql',
-    'yaml_schema_path'   => dirname(__FILE__) . '/doctrine/schema'
-);
-
 // obtaining the entity manager (7)
 $evm = new Doctrine\Common\EventManager();
-$entityManager = \Doctrine\ORM\EntityManager::create($conn, $config, $evm);
+$entityManager = \Doctrine\ORM\EntityManager::create((array)\Nette\Environment::getConfig('database'), $config, $evm);
 
 // Configure application
 $application = Environment::getApplication();
